@@ -1,0 +1,10 @@
+[package]
+name = "alice-filesystem"
+version = "1.0.0"
+edition = "2021"
+authors = ["Moroya Sakamoto"]
+license = "MIT"
+description = "Virtual filesystem with inodes, directory tree, permissions, symlinks, mounting, path resolution, file descriptors, and buffered I/O"
+
+[lib]
+crate-type = ["rlib"]
