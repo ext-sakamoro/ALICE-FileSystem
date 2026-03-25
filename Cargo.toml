@@ -2,7 +2,7 @@
 name = "alice-filesystem"
 version = "1.0.0"
 edition = "2021"
-authors = ["Moroya Sakamoto"]
+authors = ["Moroya Sakamoto <sakamoro@alicelaw.net>"]
 license = "AGPL-3.0"
 description = "Virtual filesystem with inodes, directory tree, permissions, symlinks, mounting, path resolution, file descriptors, and buffered I/O"
 
