@@ -10,7 +10,7 @@ Virtual filesystem module for the ALICE ecosystem. Pure Rust implementation with
 |------|-------|
 | **Crate** | `alice-filesystem` |
 | **Version** | 1.0.0 |
-| **License** | AGPL-3.0 |
+| **License** | LicenseRef-Proprietary |
 | **Edition** | 2021 |
 
 ## Features
